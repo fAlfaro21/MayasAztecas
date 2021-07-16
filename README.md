@@ -14,6 +14,7 @@ constructor: Here we establish the values for the Aztec, that we must not forget
 drinkNesquik: Add 10 to life.
 
 The following chain of exchange of blows are performed.
+
 Aztec baby nesquik
 Maya drinks Cola Cao
 Maya attacks Aztec. Azteca defends.
