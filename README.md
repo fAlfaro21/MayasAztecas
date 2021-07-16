@@ -15,7 +15,7 @@ drinkNesquik: Add 10 to life.
 
 The following chain of exchange of blows are performed.
 
-Aztec baby nesquik
+Aztec drinks nesquik
 Maya drinks Cola Cao
 Maya attacks Aztec. Azteca defends.
 Azteca attacks Maya. Maya defends.
